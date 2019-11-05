@@ -1,3 +1,7 @@
 # PDF Viewer
 
-> Custom PDF viewer with pagination built with pdf.js
+At this page you https://jef-00.github.io/How-to-install-Devstack-in-Ubuntu-18.04/ you will find instructions on how to set-up a physical or virtual system with Devstack to create a working cloud environment. Devstack is a bundle of scripts that will install a complete Openstack environment. Devstack will install the latest version of open stack on your Ubuntu server, you should use devstack only in a test environment and not in a production environment.
+
+OpenStack is open source software that makes it possible to create a Cloud Infrastructure, that offers an Infrastructure as a Service (IaaS) platform for both private and public clouds. Important to note is that we assumed that you can make a system or virtual machine ready to install this software on. The prerequisites are documented in detail in the first chapter. Afterwards in the second chapter you can find the steps on how to install Devstack. The chapters 3 till 7 will be about the configuration of the Devstack. In the Appendix the installation of Ubuntu can be found if you need this. We strived towards a complete and easy-to-follow document for people who want to try out the functionalities of Devstack. We came to this idea because the already existing documentation and tutorials on the Internet were not complete, up to date, accurate or easy to follow.
+
+We have also made a video tutorial which makes it easier to follow it step by step. Both the video and the document can be used as a stand alone guide. Linkt to the video: https://youtu.be/ryemYksDzRQ	Initial commit
