@@ -1,4 +1,4 @@
-const url = '../docs/pdf.pdf';
+const url = 'https://jef-00.github.io/How-to-install-Devstack-in-Ubuntu-18.041/docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
