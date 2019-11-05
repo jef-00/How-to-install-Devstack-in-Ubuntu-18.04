@@ -1,4 +1,4 @@
-# PDF Viewer
+# Devstack
 
 At this page you https://jef-00.github.io/How-to-install-Devstack-in-Ubuntu-18.04/ you will find instructions on how to set-up a physical or virtual system with Devstack to create a working cloud environment. Devstack is a bundle of scripts that will install a complete Openstack environment. Devstack will install the latest version of open stack on your Ubuntu server, you should use devstack only in a test environment and not in a production environment.
 
