@@ -9,8 +9,8 @@
   padding: 1rem;
 }
 
-.btn {
-  background: coral;
+.btn-back {
+  background: blue;
   color: #fff;
   border: none;
   outline: none;
@@ -18,9 +18,23 @@
   padding: 0.7rem 2rem;
 }
 
-.btn:hover {
+.btn-forward {
+  background: blue;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0.7rem 2rem;
+}
+
+.btn-back:hover {
   opacity: 0.9;
 }
+
+.btn-forward:hover {
+  opacity: 0.9;
+}
+
 
 .page-info {
   margin-left: 1rem;
